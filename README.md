@@ -1,6 +1,7 @@
-# Budget App
+# Budget-app
 
-Budget-app is a mobile web application that assists users with money management. It may also show consumers a list of transactions they've done that are tied to their categories, as well as the overall amount of money they've spent.
+> Budget-app is a mobile web application that assists users with money management. It may also show consumers a list of transactions they've done that are tied to their categories, as well as the overall amount of money they've spent.
+
 ## Built With
 
 - Ruby
@@ -10,8 +11,7 @@ Budget-app is a mobile web application that assists users with money management.
 
 ## Live Demo
 
-[Live Demo Link](Coming Soon)
-
+[Coming soon()
 
 ## Getting Started
 
@@ -28,11 +28,8 @@ You need the following tools be installed in your computer:
 
 ### Setup
 
-1. Download the Zip file or clone the repo with:
 
-   `git@github.com:BasitKorede/Budget-app.git`
-
-2. To access the project directory
+1. To access the project directory
    `cd Budget-app`
 
 ### Install
@@ -67,18 +64,18 @@ To deploy to Heroku:
 - Twitter: [Basit_Korede2](https://twitter.com/basit_korede2)
 - LinkedIn: [Basit-Korede](https://www.linkedin.com/in/basit-korede/)
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/BasitKorede/budget-app/issues).
+Feel free to check the [issues page](https://github.com/BAsitKorede/budget-app/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
 - Microverse
 
 ## 📝 License
